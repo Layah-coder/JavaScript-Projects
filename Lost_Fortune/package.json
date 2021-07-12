@@ -1,0 +1,12 @@
+{
+  "name": "lost_fortune",
+  "version": "0.0.0",
+  "description": "Lost_Fortune",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

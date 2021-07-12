@@ -1,0 +1,3 @@
+C:\Users\Leah\Desktop\SPC\JavaScript COP2801\Lost_Fortune\obj\Debug\Lost_Fortune.njsproj.CoreCompileInputs.cache
+C:\Users\Leah\Desktop\SPC\JavaScript COP2801\Lost_Fortune\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Leah\Desktop\SPC\JavaScript COP2801\Lost_Fortune\obj\Debug\Lost_Fortune.njsprojAssemblyReference.cache
